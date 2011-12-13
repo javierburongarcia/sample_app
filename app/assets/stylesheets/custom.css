@@ -53,3 +53,9 @@ a.signup_button { margin-left: auto; margin-right: auto; display: block; text-al
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
 border-radius: 10px; }
+
+/* User show page */
+table.profile { width: 100%; margin-bottom: 0;
+}
+td.main { width: 70%; padding: 1em;
+}
